@@ -1,0 +1,37 @@
+{ "height":6,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJxjYBgFo2AUjIKhARhH8SgexTgxExAzj9KDhgYAQP0Bww==",
+         "encoding":"base64",
+         "height":6,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":100,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tileheight":194,
+ "tilesets":[
+        {
+         "columns":7,
+         "firstgid":1,
+         "image":"..\/assets\/images\/bg\/tilemap.jpg",
+         "imageheight":1000,
+         "imagewidth":1000,
+         "margin":0,
+         "name":"bg",
+         "spacing":0,
+         "tilecount":35,
+         "tileheight":194,
+         "tilewidth":126
+        }],
+ "tilewidth":126,
+ "version":1,
+ "width":100
+}

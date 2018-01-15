@@ -1,0 +1,277 @@
+{
+    "_id": "5843db813002d8e61dbb0212",
+    "meta": {
+        "title": "",
+        "author": "",
+        "email": "",
+        "createDate": ""
+    },
+    "style": {
+        "fontSize": "20"  
+    },
+    "fontFiles": [
+        {
+            "fontURL": "assets/bitmap-fonts/jager_font.fnt?v=2",
+            "imageURL": "assets/bitmap-fonts/jager_font_0.png?v=2",
+            "name": "gem"
+        },
+        {
+            "fontURL": "assets/bitmap-fonts/lcd.fnt?v=2",
+            "imageURL": "assets/bitmap-fonts/lcd_0.png?v=2",
+            "name": "lcd"
+        },
+        {
+            "fontURL": "assets/bitmap-fonts/os.fnt?v=2",
+            "imageURL": "assets/bitmap-fonts/os_0.png?v=2",
+            "name": "os"
+        }
+    ],
+    "imageFiles": [
+        {
+            "imageURL": "assets/images/ui/toplist.png?v=2",
+            "name": "toplists"
+        },
+        {
+            "imageURL": "assets/images/ui/start.png?v=2",
+            "name": "start"
+        },
+        {
+            "imageURL": "assets/images/ui/menu_bg.jpg?v=2",
+            "name": "menu_bg"
+        },
+        {
+            "imageURL": "assets/images/ui/lr-logo.png?v=2",
+            "name": "splash"
+        },
+        {
+            "imageURL": "assets/images/ui/menu_logo.png?v=2",
+            "name": "menu_logo"
+        },
+        {
+            "imageURL": "assets/images/ui/end_game.png?v=2",
+            "name": "end_game"
+        },
+        {
+            "imageURL": "assets/images/ui/back.png?v=2",
+            "name": "back"
+        },
+        {
+            "imageURL": "assets/images/ui/new_game.png?v=2",
+            "name": "new_game"
+        },
+        {
+            "imageURL": "assets/images/bg/peoples_1.png?v=2",
+            "name": "peoples_1"
+        },
+        {
+            "imageURL": "assets/images/bg/metro__bg_full_1.jpg?v=2",
+            "name": "bg__table"
+        },
+        {
+            "imageURL": "assets/images/ui/mask_crt.png?v=2",
+            "name": "mask_crt"
+        },
+        {
+            "imageURL": "assets/images/bg/metro__bg_full_2.png?v=2",
+            "name": "metro__bg_full_2"
+        },
+        {
+            "imageURL": "assets/images/bg/sta_ujpest__veg.jpg?v=2",
+            "name": "sta_ujpest_veg"
+        },
+        {
+            "imageURL": "assets/images/bg/mas_ujpest__veg.png?v=2",
+            "name": "mas_ujpest_veg"
+        },
+        {
+            "imageURL": "assets/images/bg/sta_ujpest__2.jpg?v=2",
+            "name": "sta_ujpest__2"
+        },
+        {
+            "imageURL": "assets/images/bg/sta_forgach.jpg?v=2",
+            "name": "sta_forgach"
+        },
+        {
+            "imageURL": "assets/images/bg/mas_forgach.png?v=2",
+            "name": "mas_forgach"
+        },
+        {
+            "imageURL": "assets/images/bg/sta_gyongyosi.jpg?v=2",
+            "name": "sta_gyongyosi"
+        },
+        {
+            "imageURL": "assets/images/bg/mas_gyongyosi.png?v=2",
+            "name": "mas_gyongyosi"
+        },
+        {
+            "imageURL": "assets/images/ui/mute.png?v=2",
+            "name": "mute"
+        },
+        {
+            "imageURL": "assets/images/ui/mute_e.png?v=2",
+            "name": "mute_e"
+        },
+        {
+            "imageURL": "assets/images/ui/close.png?v=2",
+            "name": "close"
+        },
+        {
+            "imageURL": "assets/images/bg/sta_arpad.jpg?v=2",
+            "name": "sta_arpad"
+        },
+        {
+            "imageURL": "assets/images/ui/doors_l.png?v=2",
+            "name": "icon__door_l"
+        },
+        {
+            "imageURL": "assets/images/ui/doors_r.png?v=2",
+            "name": "icon__door_r"
+        },
+        {
+            "imageURL": "assets/images/ui/speed_limit.png?v=2",
+            "name": "speed_limit"
+        },
+        {
+            "imageURL": "assets/images/ui/metro__car.png?v=2",
+            "name": "icon__car"
+        },
+        {
+            "imageURL": "assets/images/ui/metro__car_d.png?v=2",
+            "name": "icon__car_d"
+        },
+        {
+            "imageURL": "assets/images/ui/icon__player.png?v=2",
+            "name": "icon__player"
+        },
+        {
+            "imageURL": "assets/images/ui/direction_D.png?v=2",
+            "name": "direction_D"
+        },
+        {
+            "imageURL": "assets/images/ui/direction_N.png?v=2",
+            "name": "direction_N"
+        },
+        {
+            "imageURL": "assets/images/ui/direction_R.png?v=2",
+            "name": "direction_R"
+        },
+        {
+            "imageURL": "assets/images/ui/display_lcd.png?v=2",
+            "name": "display_lcd"
+        },
+        {
+            "imageURL": "assets/images/ui/doors_1.png?v=2",
+            "name": "doors_1"
+        },
+        {
+            "imageURL": "assets/images/ui/doors_2.png?v=2",
+            "name": "doors_2"
+        },
+        {
+            "imageURL": "assets/images/ui/doors_led.png?v=2",
+            "name": "doors_led"
+        },
+        {
+            "imageURL": "assets/images/ui/header.png?v=2",
+            "name": "header"
+        },
+        {
+            "imageURL": "assets/images/ui/metro_icon.png?v=2",
+            "name": "metro_icon"
+        },
+        {
+            "imageURL": "assets/images/ui/throttle_minus_1.png?v=2",
+            "name": "throttle_minus_1"
+        },
+        {
+            "imageURL": "assets/images/ui/throttle_minus_1_d.png?v=2",
+            "name": "throttle_minus_1_d"
+        },
+        {
+            "imageURL": "assets/images/ui/throttle_plusz_1.png?v=2",
+            "name": "throttle_plusz_1"
+        },
+        {
+            "imageURL": "assets/images/ui/throttle_plusz_1_d.png?v=2",
+            "name": "throttle_plusz_1_d"
+        }
+    ],
+    "soundFiles": [
+        {
+            "soundURL": "assets/sounds/00Sziveskedjenek.wav",
+            "name": "001sziveskedjenek"
+        },
+        {
+            "soundURL": "assets/sounds/Superboy.mp3",
+            "name": "bg_sound"
+        },
+        {
+            "soundURL": "assets/sounds/station.mp3",
+            "name": "train"
+        },
+        {
+            "soundURL": "assets/sounds/train.mp3",
+            "name": "station"
+        },
+        {
+            "soundURL": "assets/sounds/20Ujpest.wav",
+            "name": "ujpest"
+        },
+        {
+            "soundURL": "assets/sounds/19Kapu_j.wav",
+            "name": "ujpest_varoskapu"
+        },
+        {
+            "soundURL": "assets/sounds/19Kapu_kj.wav",
+            "name": "ujpest_varoskapu_k"
+        },
+        {
+            "soundURL": "assets/sounds/18Gyongyosi.wav",
+            "name": "gyongyosi"
+        },
+        {
+            "soundURL": "assets/sounds/18Gyongyosi_k.wav",
+            "name": "gyongyosi_k"
+        },
+        {
+            "soundURL": "assets/sounds/17Forgach.wav",
+            "name": "forgach"
+        },
+        {
+            "soundURL": "assets/sounds/17Forgach_k.wav",
+            "name": "forgach_k"
+        },
+        {
+            "soundURL": "assets/sounds/16Arpad.wav",
+            "name": "arpad"
+        },
+        {
+            "soundURL": "assets/sounds/16Arpad_k.wav",
+            "name": "arpad_k"
+        },
+        {
+            "soundURL": "assets/sounds/15Dozsa.wav",
+            "name": "dozsa"
+        },
+        {
+            "soundURL": "assets/sounds/15Dozsa_k.wav",
+            "name": "dozsa_k"
+        },
+        {
+            "soundURL": "assets/sounds/14Lehel_j.wav",
+            "name": "lehel"
+        },
+        {
+            "soundURL": "assets/sounds/14Lehel_k.wav",
+            "name": "lehel_k"
+        },
+        {
+            "soundURL": "assets/sounds/13Nyugati.wav",
+            "name": "nyugati"
+        },
+        {
+            "soundURL": "assets/sounds/13Nyugati_k.wav",
+            "name": "nyugati_k"
+        }
+    ]
+}
