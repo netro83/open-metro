@@ -6,5 +6,5 @@ Usage:
 npm install
 npm start
 ```
-[YouTube](https://www.youtube.com/watch?v=kOc3NI5FMaQ)
+[YouTube](https://www.youtube.com/watch?v=kOc3NI5FMaQ) <br />
 ![Screenshot](https://image.prntscr.com/image/RitVHr-cSTWjHgsxUFnLjg.png)
