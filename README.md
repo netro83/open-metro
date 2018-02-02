@@ -1,4 +1,4 @@
-# open-metro /js/
+# open-metro /w phaser.js
 Metro simulator engine with [phaser.js](https://phaser.io/)
 
 Usage:
