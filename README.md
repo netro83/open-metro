@@ -1,5 +1,5 @@
 # open-metro /w phaser.js
-Metro simulator engine with [phaser.js](https://phaser.io/)
+Metro simulator game engine with [phaser.js](https://phaser.io/)
 
 Usage:
 ```
