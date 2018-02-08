@@ -49,4 +49,4 @@ SOFTWARE.
 ## Acknowledgments
 
 * My cat <3
-* BKK
+* [BKK](https://bkk.hu/)
